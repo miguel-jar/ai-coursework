@@ -32,13 +32,13 @@ git clone
 2. Install dependencies:
 
 ```Bash
-pip install numpy scikit-fuzzy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 or 
 
 ```Bash
-pip install numpy scikit-fuzzy matplotlib scikit-learn
+conda env create -f environment.yml
 ```
 
 3. Launch notebooks
