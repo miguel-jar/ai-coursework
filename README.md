@@ -26,7 +26,8 @@ This repository contains a collection of algorithms and models developed for the
 1. Clone the repository:
 
 ```Bash
-git clone 
+git clone https://github.com/miguel-jar/ai-coursework.git
+cd ai-coursework
 ```
 
 2. Install dependencies:
